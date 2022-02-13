@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3091" started-at="2022-02-13T21:39:11 IST" finished-at="2022-02-13T21:39:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3091" started-at="2022-02-13T21:39:11 IST" finished-at="2022-02-13T21:39:14 IST">
+      <class name="Testcases.LoginPageTC">
+        <test-method status="PASS" signature="InitialSetup()[pri:0, instance:Testcases.LoginPageTC@6e06451e]" name="InitialSetup" is-config="true" duration-ms="6796" started-at="2022-02-13T21:39:04 IST" finished-at="2022-02-13T21:39:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialSetup -->
+        <test-method status="PASS" signature="LoginToBankapp()[pri:0, instance:Testcases.LoginPageTC@6e06451e]" name="LoginToBankapp" duration-ms="3069" started-at="2022-02-13T21:39:11 IST" finished-at="2022-02-13T21:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToBankapp -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:Testcases.LoginPageTC@6e06451e]" name="QuitBrowser" is-config="true" duration-ms="276" started-at="2022-02-13T21:39:19 IST" finished-at="2022-02-13T21:39:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- Testcases.LoginPageTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
